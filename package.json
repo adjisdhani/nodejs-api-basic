@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-api-basic",
+  "version": "1.0.0",
+  "description": "Node JS API Basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adjisdhani/nodejs-api-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adjisdhani/nodejs-api-basic/issues"
+  },
+  "homepage": "https://github.com/adjisdhani/nodejs-api-basic#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  }
+}
